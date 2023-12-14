@@ -1,0 +1,14 @@
+.container {
+    width: 36rem;
+    height: 36rem;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    margin-top: 1rem;
+}
+
+.gridbox {
+    width: 9rem;
+    height: 9rem;
+    background-color: white;
+}
